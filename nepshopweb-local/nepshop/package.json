@@ -1,0 +1,1 @@
+{"name":"nepshopweb","version":"1.0.0","description":"NEPSHOPWEB game top-up store (zero dependencies)","scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
